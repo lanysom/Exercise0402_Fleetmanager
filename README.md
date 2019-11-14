@@ -13,9 +13,10 @@ The *functional requirements* for your application are as follows:
    1. It should *only* be possible to mark a car that is in use.
 
 The *non-functional requirements* are:
-1. The user interface must be text-based, so you need to implement the solution as a console application.
 1. Car data must be stored in a sql server database.
 1. You have to create the solution with the .NET Framework and use ADO.NET for data access.
+1. The user interface must be text-based, so you need to implement the solution as a console application.
+
 
 You can create tables yourself to store data, but the script below creates a table that should be sufficient to solve the task.
 
