@@ -1,4 +1,4 @@
-# Exercise 0401 - Fleet Manager 1.0
+# Exercise 0401 - Fleet Manager
 
 You own a company with some salespeople who regularly run customer visits. They use company cars to drive around but you have troubles with keeping track of when the cars are home and when they are not. So you have decided to create a small piece of software, where you can register when the cars are home.
 
