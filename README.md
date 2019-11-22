@@ -1,6 +1,6 @@
 # Exercise 0401 - Fleet Manager
 
-You own a company with some salespeople who regularly run customer visits. They use company cars to drive around but you have troubles with keeping track of when the cars are home and when they are not. So you have decided to create a small piece of software, where you can register when the cars are home.
+You own a company where salespeople regularly run customer visits. They use company cars to drive around but you have troubles with keeping track of when the cars are home and when they are not. So you have decided to create a small piece of software, where you can register when the cars are home.
 
 The *functional requirements* for your application are as follows:
 1. Insert a car with the properties of brand and model into the table
